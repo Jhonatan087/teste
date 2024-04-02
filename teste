@@ -9,7 +9,7 @@
 <body>
     <header>
         <div>
-            <img src="./logo-soft.png" alt="" width="50px">
+            <img src="./logo-soft.png" alt="Logo da Jasmine" width="50px">
             <nav> 
                 <ul> 
                     <li><a href="">sobre</a</li>
@@ -22,10 +22,10 @@
             <nav>
             <nav>
                 <ul> 
-                    <li><a href="https://github.com/"><img src="./image.png"></a</li>
-                    <li><a href="https://www.google.com/intl/pt-BR/gmail/about/"><img src="./at.png" alt=""></a></li>
-                    <li><a href="https://www.instagram.com/"><img src="./instagram-logo.png" alt=""></a></li>
-                    <li><a href="https://br.linkedin.com/"><img src="./linkedin-logo.png" alt=""></a></li>
+                    <li><a href="https://github.com/"><img src="./image.png" alt="github"></a</li>
+                    <li><a href="https://www.google.com/intl/pt-BR/gmail/about/"><img src="./at.png" alt="Gmail"></a></li>
+                    <li><a href="https://www.instagram.com/"><img src="./instagram-logo.png" alt="instagram"></a></li>
+                    <li><a href="https://br.linkedin.com/"><img src="./linkedin-logo.png" alt="linkedin"></a></li>
                 </ul>       
             </nav>
             
@@ -52,9 +52,9 @@
         <section>
             <h2>Coisas que construí.</h2>
 
-             <img src="./video 1.gif" alt="" width="200px">
-             <img src="./pacman-2.gif" alt="" width="200px">
-             <img src="./pokemon_3.gif" alt="" width="190px">
+             <img src="./video 1.gif" alt="site wisa" width="200px">
+             <img src="./pacman-2.gif" alt="projeto pacman" width="200px">
+             <img src="./pokemon_3.gif" alt="projeto pokemon" width="190px">
 
                  <p>projeto em destaque</p>
 
@@ -103,12 +103,17 @@
 
                   <p class="p1">Um aplicativo móvel de prova de conceito que ajuda pessoas com transtornos alimentares a reconstruir seu relacionamento com a comida por meio de diário alimentar, monitoramento de humor e alimentação consciente.</p>
 
-                 <p>Competição UNSW Digital Makers 2023 - Prêmio do Júri por Impacto Socia</p>
+                 <p> <img src="./anchor-simple.png" alt="icone de trofeu">Competição UNSW Digital Makers 2023 - Prêmio do Júri por Impacto Socia</p>
 
-                 <p>Protótipo Figma</p>
+                 <p><img src="./anchor-simple.png" alt="icone do projeto">Protótipo Figma</p>
 
-                 <img src="./celular 3.png" alt=""width=200px>
+                 <img src="./celular 3.png" alt="celular"width=200px>
                  <br><a href="https://www.facebook.com/">facebook</a>
+
+            <h3>IA de cookies</h3>
+                 <p>Um protótipo de uma extensão do software de gerenciamento Jira com tecnologia de IA, adaptada às necessidades dos estudantes universitários com gerenciamento de tarefas e produtividade.</p>
+                 <p> <img src="./anchor-simple.png" alt="icone de trofeu">  2023 Digisoc x Atlassian Product Hackathon – Vencedor do primeiro lugar</p>
+                 <img src="./celular 3.png" alt="imagem do celular">
             </div>
         </section>
     </main>
@@ -116,7 +121,8 @@
 
     <footer>
         <section>
-            <h2>Entrar em Contato</h2>
+            <div>
+                <legend>entrada de contato</legend>
                  <form action="/processar_formulario" method="post">
                  <label for="nome">nome:</label>
                  <input type="text" id="nome" name="nome" required><br><br>
@@ -132,15 +138,21 @@
                  <p>Estou sempre em busca de oportunidades que me permitam crescer pessoal e profissionalmente, bem como me conectar com pessoas com ideias semelhantes ou diferentes.</p>
 
                 <p>Quer você tenha uma oportunidade, algum conselho, dúvida ou simplesmente queira dizer um oi, minha caixa de entrada está sempre aberta!</p>
-
-             <nav>
+            <div>
+              <nav>
                 <ul>
-                     <li><a href="https://github.com/"><img src="./image.png"></a</li>
-                     <li><a href="https://www.google.com/intl/pt-BR/gmail/about/"><img src="./at.png" alt=""></a></li>
-                     <li><a href="https://www.instagram.com/"><img src="./instagram-logo.png" alt=""></a></li>
-                     <li><a href="https://br.linkedin.com/"><img src="./linkedin-logo.png" alt=""></a></li>
+                     <li><a href="https://github.com/"><img src="./image.png" alt="github"></a</li>
+                     <li><a href="https://www.google.com/intl/pt-BR/gmail/about/"><img src="./at.png" alt="gmail"></a></li>
+                     <li><a href="https://www.instagram.com/"><img src="./instagram-logo.png" alt="instagram"></a></li>
+                     <li><a href="https://br.linkedin.com/"><img src="./linkedin-logo.png" alt="linkedin"></a></li>
                 </ul>
-             </nav> 
+             </nav>
+            <div>
+                <p>© 2023 | Projetado e desenvolvido por JhonJhon Yip</p>
+            </div> 
+        <section>
+
+
     </footer>
     
 </body>
