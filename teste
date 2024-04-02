@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div>
+            <img src="./logo-soft.png" alt="" width="50px">
+            <nav> 
+                <ul> 
+                    <li><a href="">sobre</a</li>
+                    <li><a href="">experiência</a></li>
+                    <li><a href="">Desenvolvimento</a></li>
+                    <li><a href="">projeto</a></li>
+                    <li><a href="">extracurriculares</a></li>
+                    <li><a href="">contato</a></li>   
+                </ul>  
+            <nav>
+            <nav>
+                <ul> 
+                    <li><a href="https://github.com/"><img src="./image.png"></a</li>
+                    <li><a href="https://www.google.com/intl/pt-BR/gmail/about/"><img src="./at.png" alt=""></a></li>
+                    <li><a href="https://www.instagram.com/"><img src="./instagram-logo.png" alt=""></a></li>
+                    <li><a href="https://br.linkedin.com/"><img src="./linkedin-logo.png" alt=""></a></li>
+                </ul>       
+            </nav>
+            
+        </div>
+
+    </header>
+    <main>
+        <section>
+            <div>
+                 <h1>Meu nome é Jhonatan</h1>
+
+                     <p>Nascido em Hong Kong, estudando a bordo na Nova Zelândia e me aventurado brevemente na Austrália, estou atualmente iniciando um novo capítulo em Los Angeles, Califórnia, cursando Bacharelado em Ciências da Computação na <a href="http://www.etg.se.df.gov.br/">Escola Tecnica Guará</a></p>
+
+                     <p>Minha jornada como desenvolvedor começou durante o bloqueio, quando fiz o curso de Tap Tap Kaboom e criei uma wikipedia de Minions de uma página . Avançando até hoje, tive o privilégio de estagiar como Engenheiro de Software na Serato , a melhor empresa de software para DJ e produção musical do mundo, projetando e desenvolvendo sites para startups e organizações sem fins lucrativos, e vencendo vários hackathons e incubadoras de startups .</p>
+
+                     <p>Sou apaixonado por tudo relacionado à tecnologia, especialmente desenvolvimento de software front-end, gerenciamento de projetos e design UI/UX, e acredito firmemente em colocar a humanidade no centro da tecnologia.</p>
+
+                     <p>Este site é orgulhosamente premiado com o Prêmio Especial Kudos CSSDA (CSS Design Awards) e o Prêmio Melhor UI, UX e Inovação .</p>
+
+            <div>
+
+        </section>
+
+        <section>
+            <h2>Coisas que construí.</h2>
+
+             <img src="./video 1.gif" alt="" width="200px">
+             <img src="./pacman-2.gif" alt="" width="200px">
+             <img src="./pokemon_3.gif" alt="" width="190px">
+
+                 <p>projeto em destaque</p>
+
+                 <h3>site wisa</h3>
+                     <p>Um site da Associação de Estudantes Internacionais de Wellington com mais de 2 mil visitas mensais.</p>
+                <h3>pacman 2.0</h3>
+                      <p>Uma recriação completa do clássico jogo Pacman usando PyGame através do tutorial da LeMaster Tech.</p>
+                <h3>pokemon</h3>
+                     <p>Um programa que permite aos usuários visualizar, adicionar e pesquisar (ou pesquisar termos parciais) seus cartões Pokémon e valores monetários.</p>
+
+        </section>
+
+        <section>
+            <div>
+                 <h1>Onde Trabalhei</h1>
+                 <h2>Serato</h2>
+                     <p>Engenheiro de Software Júnior - Estagiário</p>
+
+                     <p>Contribuiu para o desenvolvimento do Serato Visualizer , criador de vídeos para produtores musicais, em uma equipe multifuncional</p>
+           
+                     <p>Manutenção, desenvolvimento e pesquisa de produtos de software</p>
+
+                     <p>Análise, design, implementação, testes de desenvolvedor e documentação técnica de software</p>
+
+                     <p>Auxiliou na estimativa e planejamento de grandes projetos de software</p>
+
+                 <h3>Viagem de energia</h3>
+                     <p>Desenvolvedor Web</p>
+
+                     <p>Site redesenvolvido da Power Trip usando HTML, CSS e JavaScript</p>
+
+                     <p>Estabeleceu uma ligação proativa com o CEO e traduziu as discussões em soluções de design inavadoras</p>
+
+                     <p>Produziu prototipos usando Figma e validou decisões de design por meio de analise competitiva de sites e testes de usuários</p>
+
+                     <p>implementação de web design responsivo e compatibilidade testa entre navegadores e dispositivos</p>
+
+                    <p>Meu Curriculo:</p>
+                      <a href="c:\Users\Jhonatan\Documents\Meus Documentos\Vale Transporte.pdf" target="_blank">Baixar PDF</a>
+            </div>
+        <section>
+        <section>
+            <div>
+             <h2>Coisas que eu projetei.</h2>
+             <h3>Atenção plena</h3>
+
+                  <p class="p1">Um aplicativo móvel de prova de conceito que ajuda pessoas com transtornos alimentares a reconstruir seu relacionamento com a comida por meio de diário alimentar, monitoramento de humor e alimentação consciente.</p>
+
+                 <p>Competição UNSW Digital Makers 2023 - Prêmio do Júri por Impacto Socia</p>
+
+                 <p>Protótipo Figma</p>
+
+                 <img src="./celular 3.png" alt=""width=200px>
+                 <br><a href="https://www.facebook.com/">facebook</a>
+            </div>
+        </section>
+    </main>
+
+
+    <footer>
+        <section>
+            <h2>Entrar em Contato</h2>
+                 <form action="/processar_formulario" method="post">
+                 <label for="nome">nome:</label>
+                 <input type="text" id="nome" name="nome" required><br><br>
+    
+                 <label for="email">E-mail:</label>
+                 <input type="email" id="email" name="email" required><br><br>
+
+                 <label for="mensagem">Mensagem:</label><br>
+                 <textarea id="mensagem" name="mensagem" rows="4" cols="50" required></textarea><br><br>
+
+                 <input type="submit" value="Enviar">
+
+                 <p>Estou sempre em busca de oportunidades que me permitam crescer pessoal e profissionalmente, bem como me conectar com pessoas com ideias semelhantes ou diferentes.</p>
+
+                <p>Quer você tenha uma oportunidade, algum conselho, dúvida ou simplesmente queira dizer um oi, minha caixa de entrada está sempre aberta!</p>
+
+             <nav>
+                <ul>
+                     <li><a href="https://github.com/"><img src="./image.png"></a</li>
+                     <li><a href="https://www.google.com/intl/pt-BR/gmail/about/"><img src="./at.png" alt=""></a></li>
+                     <li><a href="https://www.instagram.com/"><img src="./instagram-logo.png" alt=""></a></li>
+                     <li><a href="https://br.linkedin.com/"><img src="./linkedin-logo.png" alt=""></a></li>
+                </ul>
+             </nav> 
+    </footer>
+    
+</body>
+</html>
